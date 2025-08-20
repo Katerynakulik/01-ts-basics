@@ -10,4 +10,3 @@ function logStatus(status: Status): void {
 }
 
 logStatus("loading");
-logStatus("error");
